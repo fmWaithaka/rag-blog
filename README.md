@@ -38,8 +38,7 @@ Rather than taking the costly route of retraining, we can leverage the *RAG syst
 
 The arrival of retrieval-augmented generation (RAG) marks a transformative shift in how humans interact with data. No longer confined to static repositories, information comes alive, engaging in a dynamic dialogue with users. This revolutionary approach unlocks a myriad of potential applications, far exceeding the limitations of available datasets.
 
-- Imagine a world where healthcare professionals converse with a generative AI enriched by comprehensive medical databases, instantly gleaning insights to guide their critical decisions.
-- Financial analysts dance with dynamic market data through their digital assistants, gaining an edge in the ever-evolving financial landscape.
+Imagine a world where healthcare professionals converse with a generative AI enriched by comprehensive medical databases, instantly gleaning insights to guide their critical decisions.Financial analysts dance with dynamic market data through their digital assistants, gaining an edge in the ever-evolving financial landscape.
 
 This transformative power extends beyond specialised fields. Businesses large and small can breathe life into their own internal resources, from technical manuals to video archives, transforming them into potent knowledge bases that empower LLMs. With these newfound companions, customer support teams can handle inquiries with unparalleled precision, field technicians gain instant access to critical expertise, and employee training soars to new heights, unlocking unparalleled productivity.
 
