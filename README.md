@@ -75,6 +75,9 @@ Imagine a medical chatbot leveraging a vast medical database to answer patient q
 
 ## **References and Further Reading:**
 
-- [Building Your Own Custom Chatbot with Langchain and RAG](#) - This detailed tutorial guides you through using Langchain and RAG to create a domain-specific chatbot.
-- [Querying Your Own Data with LLaMAindex and RAG](#) - This blog post from OpenAI explores how to utilize LLaMAindex and RAG for efficient information retrieval from your personal data.
-- [Understanding RAG Fundamentals](#) - This NVIDIA blog provides a clear and concise introduction to RAG technology, its working principles, and its potential applications.
+- [Building Your Own Custom Chatbot with Langchain and RAG:](https://blog.langchain.dev/tutorial-chatgpt-over-your-data/) This detailed tutorial guides you through using Langchain and RAG to create a domain-specific chatbot.
+
+- [Querying Your Own Data with LLaMAindex and RAG](https://medium.com/@fhirfly/retrieval-augmented-generation-with-openai-chat-gpt-and-faiss-a-game-changer-for-clinical-research-47b6506da8f7): This blog post from OpenAI explores how to utilize LLaMAindex and RAG for efficient information retrieval from your personal data.
+
+- [Understanding RAG Fundamentals](https://forums.developer.nvidia.com/t/explainer-what-is-retrieval-augmented-generation-aka-rag/273947): This NVIDIA blog provides a clear and concise introduction to RAG technology, its working principles, and its potential applications.
+
